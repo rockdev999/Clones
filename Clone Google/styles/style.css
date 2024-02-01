@@ -44,9 +44,9 @@ header {
   height: 33px;
   width: 33px;
 }
-.button a{
+.button a {
   text-decoration: none;
-  color: rgba(0,0,0,.87);
+  color: rgba(0, 0, 0, 0.87);
 }
 
 main {
@@ -64,49 +64,47 @@ main {
   width: 318px;
   margin-bottom: 20px;
 }
-#search-container{
+#search-container {
   display: flex;
   gap: 6px;
   align-items: center;
   background-color: none;
-  border-radius: 20px;  
+  border-radius: 20px;
   border: 1px solid rgb(215, 214, 214);
   width: 450px;
   margin-bottom: 20px;
 }
-.button{
+.button {
   background-color: transparent;
   border: none;
 }
-#search-input{
+#search-input {
   background-color: transparent;
   border: none;
   outline: none;
   width: 100%;
 }
-.icon-search{
+.icon-search {
   width: 20px;
   height: 20px;
 }
-#seccion-button{
+#seccion-button {
   display: flex;
   flex-direction: row;
   gap: 15px;
   margin: 15px;
 }
-#seccion-button a{
+#seccion-button a {
   text-decoration: none;
-  color: rgba(0,0,0,.87);
+  color: rgba(0, 0, 0, 0.87);
 }
-.button-container{
+.button-container {
   border: 1px solid #f8f9fa;
   border-radius: 8px;
   background-color: #f8f9fa;
   padding: 12px;
   color: whitesmoke;
-
 }
-
 
 footer {
   background-color: #f2f2f2;
@@ -115,19 +113,19 @@ footer {
   display: flex;
   flex-direction: column;
 }
-.footer-links{
+.footer-links {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   gap: 25px;
 }
-#country{
+#country {
   border-bottom: 1px solid rgb(215, 214, 214);
   width: 100%;
   margin: 15px;
 }
-.footer-links a{
+.footer-links a {
   margin: 10px;
   text-decoration: none;
   color: black;
